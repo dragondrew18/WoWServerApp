@@ -1,0 +1,45 @@
+/**********************************************
+***********************************************
+******					*******
+******					*******
+******	       WORLDSERVERAPP		*******
+******					*******
+******	    CREADA POR DR@GONDR3W	*******
+******					*******
+******		   V 1.0		*******
+***********************************************
+**********************************************/
+
+-Info:
+
+Aplicación que ejecuta mediante una interfaz gráfica los archivos necesarios para administrar un servidor local de World Of Warcraft (Trinity).
+Esta aplicación es abierta y puede recibir cambios por parte de su propio creador o de futuras aportaciones, las cuales serán de mucha utilidad.
+
++Botón On: //Sería el equivalente a iniciar el servidor
+
+Ejecuta AuthServer.exe, WorldServer.exe y WoW.exe
+
++Botón Off: // Sería el equivalente a apagar el servidor
+
+Cierra AuthServer.exe, WorldServer.exe y WoW.exe
+
++Botón Resset: //Sería el equivalente a hacer un reinicio del servidor
+
+Cierra y Ejecuta AuthServer.exe, Worldserver.exe
+
++Botón Preferences: //Establece las rutas de los archivos
+
+Abre una nueva ventana en la que podemos elegir cada una de las rutas de los archivos anteriores.
+
+-Logs:
+
++V 1.0:
+
+* Completamente funcional en las versiones de Windows actuales (XP/7/8.1).
+* Permite establecer la ruta de los .exe o de un acceso directo a ellos (Excepto en AuthServer y WorldServer, que sólo permite establecer un acceso directo a ellos).
+* Compabible con cualquier versión de WoW y de ejecutables de Trinity.
+
+Un Saludo.
+
+
+
