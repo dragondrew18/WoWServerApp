@@ -6,7 +6,7 @@
 ******					*******
 ******	    CREADA POR DR@GONDR3W	*******
 ******					*******
-******		   V 1.0		*******
+******		   V 1.1		*******
 ***********************************************
 **********************************************/
 
@@ -38,6 +38,10 @@ Abre una nueva ventana en la que podemos elegir cada una de las rutas de los arc
 * Completamente funcional en las versiones de Windows actuales (XP/7/8.1).
 * Permite establecer la ruta de los .exe o de un acceso directo a ellos (Excepto en AuthServer y WorldServer, que sólo permite establecer un acceso directo a ellos).
 * Compabible con cualquier versión de WoW y de ejecutables de Trinity.
+
++V 1.1:
+
+* Arreglado problema con rutas y permisos de Windows.
 
 Un Saludo.
 

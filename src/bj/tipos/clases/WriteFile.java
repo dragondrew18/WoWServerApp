@@ -7,10 +7,10 @@ public class WriteFile{
 	public static void Write(){
 			FileWriter fichero = null;
 	        PrintWriter pw = null;
-	        File directorio = new File("C:\\Users\\JuanRamón\\AppData\\Local\\WoWServerApp");
+	        File directorio = new File("C:\\Temp\\WoWServerApp");
 	        try{
 	        	boolean a = directorio.mkdir();
-	        	fichero = new FileWriter("C:\\Users\\JuanRamón\\AppData\\Local\\WoWServerApp\\Directories.txt");
+	        	fichero = new FileWriter("C:\\Temp\\WoWServerApp\\Directories.txt");
 	            String AuthServer = PreferenceAction.getAuthServer();
 	            String WorldServer = PreferenceAction.getWorldServer();
 	            String WoW = PreferenceAction.getWoWGame();

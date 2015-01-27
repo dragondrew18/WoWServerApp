@@ -14,7 +14,7 @@ class ReadFile {
 	      BufferedReader br = null;
 	 
 	      try {
-	         archivo = new File ("C:\\Users\\JuanRamón\\AppData\\Local\\WoWServerApp\\Directories.txt");
+	         archivo = new File ("C:\\Temp\\WoWServerApp\\Directories.txt");
 	         fr = new FileReader (archivo);
 	         br = new BufferedReader(fr);
 	 
